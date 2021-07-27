@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">emirim_Project11_2</string>
+    <string name="title01">겨울왕국</string>
+    <string name="title02">라라랜드</string>
+    <string name="title03">신과함께</string>
+    <string name="title04">엑시트</string>
+    <string name="title05">스파이더맨</string>
+    <string name="title06">말모이</string>
+    <string name="title07">그래디에이터</string>
+    <string name="title08">위대한쇼맨</string>
+    <string name="title09">너의결혼식</string>
+    <string name="title10">작은아씨들</string>
 </resources>
